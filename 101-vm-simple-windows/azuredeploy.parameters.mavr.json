@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "kvaes"
+      "value": "MAVR"
     },
     "adminPassword": {
       "value": "Youngsters!171116"
     },
     "dnsLabelPrefix": {
-      "value": "kvaes-"
+      "value": "mavr-"
     }
   }
 }
