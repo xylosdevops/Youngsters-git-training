@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "nisa"
+      "value": "KADE"
     },
     "adminPassword": {
       "value": "Youngsters!171116"
     },
     "dnsLabelPrefix": {
-      "value": "nisa"
+      "value": "KADE-"
     }
   }
 }
